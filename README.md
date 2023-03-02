@@ -10,6 +10,8 @@
 
 # video_viewer
 
+Note: This is a fork, and will be "updated" as in dependencies, no feature requests or bug-fixes support for now unless someone is willong to help and fix. 
+
 <br>
 
 ## My other APIs
